@@ -1,3 +1,2 @@
 # ProstateCancerPrediction
-Please refer to below for detailed report:
-[a relative link](a3.pdf)
+Please refer to [report_link](a3.pdf) for detailed report:
